@@ -1,2 +1,3 @@
 app/helloapp/migrations
 venv
+__pycache__/
